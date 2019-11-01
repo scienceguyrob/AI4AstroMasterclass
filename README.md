@@ -20,7 +20,7 @@ If using/editing this resource, please cite it appropriately using the DOI: .
 
 <br/>
 
-Remember if you find this resource useful, you can let me know via social media [<img src="media/final/general/TwitterLogoBlue.png" width="30">](https://twitter.com/scienceguyrob?lang=en)
+Remember if you find this resource useful, you can let me know via social media [<img src="media/images/general/TwitterLogoBlue.png" width="30">](https://twitter.com/scienceguyrob?lang=en)
                                                                    
 ---
 
