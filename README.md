@@ -16,7 +16,9 @@ Version 1.0 (28/10/2019)
 
 Also see [www.scienceguyrob.com](www.scienceguyrob.com).
 
-If using/editing this resource, please cite it appropriately using the DOI: .
+[![DOI](https://zenodo.org/badge/218981425.svg)](https://zenodo.org/badge/latestdoi/218981425)
+
+If using/editing this resource, please cite it appropriately using the DOI above.
 
 <br/>
 
