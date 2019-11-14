@@ -23,7 +23,11 @@ If using/editing this resource, please cite it appropriately using the DOI above
 <br/>
 
 Remember if you find this resource useful, you can let me know via social media [<img src="media/images/general/TwitterLogoBlue.png" width="30">](https://twitter.com/scienceguyrob?lang=en)
-                                                                   
+
+<br/>
+
+A live version of the interactive notebook can be found via Google Colab [here](https://colab.research.google.com/drive/1kowcnmu_skaVx6zfwzblT2wA6cPhhCf4).
+                                                                 
 ---
 
 ## License
